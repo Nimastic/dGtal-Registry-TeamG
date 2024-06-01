@@ -1,0 +1,27 @@
+{
+  "name": "blockchain-image-protection",
+  "version": "1.0.0",
+  "description": "A project to protect images using blockchain.",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "image-hash": "^5.3.2",
+    "image-similarity": "^0.1.0",
+    "jimp": "^0.22.12",
+    "mongoose": "^8.4.0",
+    "multer": "^1.4.5-lts.1",
+    "resemblejs": "^5.0.0",
+    "truffle": "^5.3.14",
+    "web3": "^1.5.2"
+  },
+  "devDependencies": {
+    "ganache-cli": "^6.12.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
