@@ -1,3 +1,10 @@
+The `dGtal-Registry-TeamG` repository is a project focused on a blockchain-based content registry and licensing system. It uses a Next.js frontend and a backend built with Node.js, Truffle, and Solidity for smart contract deployment. The system allows users to register digital assets, manage licenses, and verify ownership using Ethereum blockchain and Metamask for transactions. The backend handles contract compilation, deployment, and interactions through Ganache for a local blockchain environment.
+
+For more details, you can check this repository [here](https://github.com/Nimastic/dGtal-Registry-TeamG).
+
+The Devpost for the project can be found [here](https://devpost.com/software/dgtal-registry?ref_content=my-projects-tab&ref_feature=my_projects).
+
+
 ## FRONTEND
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
